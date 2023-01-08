@@ -1,4 +1,4 @@
-namespace EmployeeCrud.AAPi
+namespace EmplyeeCrudByCleanArchit
 {
     public class WeatherForecast
     {
